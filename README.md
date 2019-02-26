@@ -7,3 +7,4 @@ langkah pertama buka notepad lalu isi notepad seperti gambar dibawah ini
 
 lalu ketik cmd pada kolom pecarian widows dan masukan seperti gambar dibawah ini
 
+![screenshot 9](https://user-images.githubusercontent.com/47880622/53396839-11735100-39d8-11e9-8f87-9ddedae783bd.png)
